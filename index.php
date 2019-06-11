@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>Database Test</title>
+  <title>Hello. This is first cloud app</title>
  </head>
  <body>
- <?php echo '<p>DMCS</p>'; 
+ <?php echo '<p>Demo</p>'; 
  
  ?> 
      <a href="ConnectToDB.php" target="_blank" >Connect database</a>
